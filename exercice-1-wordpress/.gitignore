@@ -1,0 +1,4 @@
+# Fichiers à ignorer
+.env
+*.log
+.DS_Store
