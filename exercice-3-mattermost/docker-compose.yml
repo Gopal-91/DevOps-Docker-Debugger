@@ -1,0 +1,63 @@
+networks:
+  mattermost-network:
+    driver: bridge
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: mattermost-postgres
+    networks:
+      - mattermost-network
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    restart: unless-stopped
+
+  mattermost:
+    image: mattermost/mattermost-team-edition:latest
+    container_name: mattermost-app
+    networks:
+      - mattermost-network
+    ports:
+      - "${MATTERMOST_PORT}:8065"
+    environment:
+      - MM_SQLSETTINGS_DRIVERNAME=postgres
+      - MM_SQLSETTINGS_DATASOURCE=postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}?sslmode=disable&connect_timeout=10
+      - MM_SERVICESETTINGS_SITEURL=${MATTERMOST_SITE_URL}
+      - MM_SERVICESETTINGS_ENABLELOCALMODE=true
+    volumes:
+      - mattermost_data:/mattermost/data
+      - mattermost_logs:/mattermost/logs
+      - mattermost_plugins:/mattermost/plugins
+      - mattermost_config:/mattermost/config
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8065/api/v4/system/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    driver: local
+  mattermost_data:
+    driver: local
+  mattermost_logs:
+    driver: local
+  mattermost_plugins:
+    driver: local
+  mattermost_config:
+    driver: local
